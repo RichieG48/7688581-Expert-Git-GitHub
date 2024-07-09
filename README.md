@@ -13,6 +13,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 matplotlib et c'est tout
 
+matplotlib et aussi numpy
+
 ```
 
 ### Installation
